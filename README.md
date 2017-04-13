@@ -1,8 +1,8 @@
 # vue
 vue开源组件
 
-modal
+## modal
 vue弹窗组件
 
-scroll-inif
+## scroll-inif
 vue上拉加载更多
